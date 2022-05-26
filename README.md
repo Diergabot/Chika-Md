@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="CHIKA MULTI DEVICE" src="https://img.shields.io/badge/CHIKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="DIERGA BOT" src="https://img.shields.io/badge/DIRGA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
@@ -34,12 +34,12 @@
 ---
 
 ## Information
-> Chika-Md adalah bot yang awalnya memakai base dari [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Chika-Md is a bot whatsapp using a Baileys library.
-> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
+> DIERGA BOT adalah bot yang awalnya memakai DIRGA is a bot whatsapp using a Baileys library.
+> Jika kamu menemukan semacam bug, harap untuk dimaklumi
 
-## Bugs and Tester
+## Bugs and Teste
 * Jika kamu menemukan bug jangan lupa buka Issues
-* Info Lebih Lanjut, Chat [owner-chika](https://wa.me/6281575886399)
+* Info Lebih Lanjut, Chat [owner-dirga](https://wa.me/+6288232388750)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -68,21 +68,17 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.owner = ['6288232388750','6288232388750','6288232388750']
+global.premium = ['6288232388750']
+global.ownernomer = '6288232388750'
+global.ownername = 'DIRGA'
+global.botname = 'Dierga bot'
+global.footer = 'DIR'
+global.twitter = 'https://twitter.com/presdiar'
 global.region = 'indonesia'
-global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+global.packname = '© Dirgabot'
+global.author = 'DIRGA'
+global.sessionName = 'prevante'
 ```
 
 ## ```HOW TO DEPLOY```
